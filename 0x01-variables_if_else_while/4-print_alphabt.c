@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints in lowercase xcept q and e.
+ * main - prints in lowercase except q and e.
  *
  * Return: Always 0.
  */
@@ -15,7 +15,7 @@ int main(void)
 			putchar(letter);
 	}
 
-	putchar('/n');
+	putchar('\n');
 
 	return (0);
 }
